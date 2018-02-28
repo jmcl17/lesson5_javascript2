@@ -4,7 +4,7 @@
 Web Application Development
 
 ### Assignment Date:  
-Februrary 27th 2018
+Februrary 28th 2018
 
 ### Student Name:  
 Julia McLane
@@ -17,7 +17,7 @@ This lesson shows how code can be reused by using loops and functions.
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned that elements can be cleared using the getElementById method.
+2. I learned hoe to use an if/else and if statement to help calculate the tax.  
+3. I learned that if/else statements only execute the action of the condition is true and not false.
 
