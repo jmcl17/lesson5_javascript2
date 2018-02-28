@@ -13,8 +13,7 @@ Julia McLane
 This lesson shows how code can be reused by using loops and functions. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://jmcl17.github.io/lesson5_javascript2
 
 ### Lessons Learned in the Assignment:
 1. I learned that elements can be cleared using the getElementById method.
